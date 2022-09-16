@@ -1,0 +1,123 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color: #E8C07D;
+}
+h1{
+text-align: center;
+font-size: 85px;
+}
+img{
+    border-radius: 60%;
+}
+
+#arriereplan{
+    height: 100vh;
+    width: 100vw;
+    z-index: -2;
+    position: fixed;
+    top: 0;
+    left: 0;
+    border-radius: 0;
+    opacity: 0.7;
+}
+
+div{
+    border: 5px solid #a8b2b6;
+}
+
+div{
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px #7d949c;
+    margin: 30px
+}
+
+h2{
+    text-align: center;
+}
+div
+.photo1{
+    text-align: center;
+}
+
+.photodiv {
+    text-align: center;
+    border: none;
+    box-shadow: none;
+}
+
+li{
+    color: #183859;
+}
+
+p{
+    color: #1A1A40;
+}
+
+h2{
+    color: #E8C07D;
+}
+
+.morceau{ 
+    text-decoration: #183859;
+    text-decoration: underline;
+
+    color: #183859;
+    text-align: center;
+
+}
+
+.morceau:hover{
+    color: #F900BF;
+
+}
+
+.piano:hover{
+    color: #6FDFDF;
+}
+
+.pianistes:hover{
+    color: #9900F0;
+}
+
+.pianistes-morceaux{
+    display: flex;
+    gap: 20px ;
+    border: none;
+    box-shadow: none;
+    justify-content: center;
+}
+
+.morceaux{
+margin: 0%;
+text-align: center;
+}
+
+#cc{
+    text-align: center ;
+}
+
+.pianistes{
+    margin: 0%;
+}
+
+.photo1{
+    display: flex;
+    border: none;
+    box-shadow: none;
+}
+.photo2{
+    display: flex;
+    border: none;
+    box-shadow: none;
+    justify-content: right;
+}
+
+.photos{
+    display: flex;
+    justify-content: space-between;
+    border: none;
+    box-shadow: none;
+    
+}
